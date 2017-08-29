@@ -1,23 +1,12 @@
 package com.fourstay.step_definitions;
 
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
-
 import org.junit.Assert;
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebElement;
-
 import com.fourstay.pages.HomePage;
 import com.fourstay.pages.SearchPage;
 import com.fourstay.utilities.BrowserUtilities;
-import com.fourstay.utilities.ConfigurationReader;
-
-
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
-
 
 
 public class SearchForPrice_StepDefs {

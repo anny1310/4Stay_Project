@@ -1,19 +1,9 @@
 package com.fourstay.step_definitions;
 
 import java.util.UUID;
-
 import org.junit.Assert;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.ui.ExpectedCondition;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
 import com.fourstay.pages.SignUpPage;
 import com.fourstay.utilities.BrowserUtilities;
-import com.fourstay.utilities.Driver;
-
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;

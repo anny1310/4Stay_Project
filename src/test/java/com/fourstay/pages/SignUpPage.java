@@ -1,11 +1,8 @@
 package com.fourstay.pages;
 
-import java.util.UUID;
-
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-
 import com.fourstay.utilities.Driver;
 
 public class SignUpPage {

@@ -1,19 +1,12 @@
 package com.fourstay.step_definitions;
 
-import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
-
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-
 import com.fourstay.pages.SearchPage;
 import com.fourstay.utilities.BrowserUtilities;
-import com.fourstay.utilities.ConfigurationReader;
 import com.fourstay.utilities.Driver;
-
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 

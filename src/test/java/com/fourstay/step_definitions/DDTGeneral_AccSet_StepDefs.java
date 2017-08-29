@@ -1,19 +1,12 @@
 package com.fourstay.step_definitions;
 
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
-
 import org.junit.Assert;
-
 import com.fourstay.pages.SignUpPage;
-import com.fourstay.pages.UserAccountPage;
 import com.fourstay.utilities.BrowserUtilities;
 import com.fourstay.utilities.DBUtilIty;
 import com.fourstay.utilities.DBUtilIty.DBType;
-
 import cucumber.api.java.en.Then;
 
 public class DDTGeneral_AccSet_StepDefs {
